@@ -1,0 +1,50 @@
+#rosegold
+{
+  color: #b76e79;
+}
+
+#lavender
+{
+  color: #bfbff5;
+}
+
+#silver
+{
+  color: #c0c0c0;
+}
+
+#darkpurple
+{
+  color: #4d0b58;
+}
+
+#white
+{
+  color: #ffffff;
+}
+
+#black
+{
+  color: #000;
+}
+
+#coral
+{
+  color: coral;
+}
+
+body{
+
+  background-color: #b76e79;
+
+
+
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
